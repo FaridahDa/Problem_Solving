@@ -4,6 +4,8 @@
 
 As part of the 100 days of Code challenge, I do two codewars everyday - this repo is updated on a daily basis!
 
+I am currently at the level below >
+
 ![img.png](img.png)
 https://www.codewars.com/users/Faridah_Islah
 
