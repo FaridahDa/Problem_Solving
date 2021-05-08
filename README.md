@@ -1,6 +1,6 @@
 # **PROBLEM SOLVING** 
 
-### **This repo holds my solutions to attempted codewars katas as well as general problem solving, Data Structures and Algorithms**
+### **This repo holds my solutions to attempted codewars katas as well as Data Structures and Algorithms**
 
 ![img.png](img.png)
 https://www.codewars.com/users/Faridah_Islah
