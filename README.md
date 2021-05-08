@@ -2,6 +2,8 @@
 
 ### **This repo holds my solutions to attempted Codewars katas, Leetcode as well as Data Structures and Algorithms**
 
+As part of the 100 days of Code challenge, I do two codewars everyday so this repo is updated on a daily basis!
+
 ![img.png](img.png)
 https://www.codewars.com/users/Faridah_Islah
 
