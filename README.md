@@ -7,9 +7,6 @@ As part of the 100 days of Code challenge, I do two codewars everyday - this rep
 ![img.png](img.png)
 https://www.codewars.com/users/Faridah_Islah
 
-Solutions to Python katas are in the Codewars folder.
-Solutions to Python Leetcodes are in the Leetcode folder
-
 The structure for the repo is below:
 
 **Problem Solving Directory**
