@@ -3,12 +3,12 @@
 ### **This repo holds my solutions to attempted codewars katas as well as general problem solving, Data Structures and Algorithms**
 
 ![img.png](img.png)
-https://www.codewars.com/users/Faridah_Islah/
+https://www.codewars.com/users/Faridah_Islah
 
 Solutions to Python katas are in the Codewars folder.
 Solutions to JavaScript katas are in the JavaScript folder.
 
-The rest of this readme are my notes on General Problem Solving, Algorithms and Data Structures. The code for that is in the Algorithms&DS folder.
+The structure for the repo is below:
 
 **Problem Solving Directory**
 
