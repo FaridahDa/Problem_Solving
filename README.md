@@ -6,7 +6,6 @@
 https://www.codewars.com/users/Faridah_Islah
 
 Solutions to Python katas are in the Codewars folder.
-Solutions to JavaScript katas are in the JavaScript folder.
 
 The structure for the repo is below:
 
