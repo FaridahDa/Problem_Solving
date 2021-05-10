@@ -7,7 +7,7 @@ As part of the 100 days of Code challenge, I do two codewars everyday - this rep
 I am currently at this level > ![img.png](img.png)
 https://www.codewars.com/users/Faridah_Islah
 
-The structure for the repo is below and the main language practised is Python:
+The structure for the repo is below:
 
 **Problem Solving Directory**
 
@@ -23,4 +23,10 @@ The structure for the repo is below and the main language practised is Python:
 * Data_Algo directory:
     * Searching and Sorting Algorithms 
     * Data Structures
-    
+  
+### Programming languages used to solve the Katas
+|    Programming Language  |    Kata Count  | 
+|----------|:-------------:|
+| [Python](https://github.com/FaridahDa/Problem_Solving/tree/main/Python_Codewars) | 60 | 
+| [JavaScript](https://github.com/FaridahDa/Problem_Solving/tree/main/JavaScript_Codewars) | 3| 
+
