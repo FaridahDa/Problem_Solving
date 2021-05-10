@@ -2,13 +2,12 @@
 
 ### **This repo holds my solutions to attempted Codewars katas, Leetcode as well as Data Structures and Algorithms**
 
-![img.png](img.png)
+As part of the 100 days of Code challenge, I do two codewars everyday - this repo is updated on a daily basis!
+
+I am currently at this level > ![img.png](img.png)
 https://www.codewars.com/users/Faridah_Islah
 
-Solutions to Python katas are in the Codewars folder.
-Solutions to Python Leetcodes are in the Leetcode folder
-
-The structure for the repo is below:
+The structure for the repo is below and the main language practised is Python:
 
 **Problem Solving Directory**
 
