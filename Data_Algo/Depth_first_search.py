@@ -29,9 +29,9 @@ def dfs(n):
         visited[n] = 1 #marking the node as visited
         stack.append(n)
         stack_display()
-        num = 0
+        num = 0 # signifies the value of new node
         for relation in ad_max[n]: #n signifies the current node
-            if relation != 0:
+            if relation != 0: # not equal to zero, means current node is connected to the new node
                 dfs(num)
             num +=1
         ans.append(n)

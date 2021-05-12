@@ -12,7 +12,7 @@ def binary_search(sequence, item):
         if midpoint_value == item:  # if we find the item just return back the position
             return midpoint
 
-        elif item < midpoint:  # item value is lower than position we need to change ending index, it is now the
+        elif item < midpoint_value:  # item value is lower than position we need to change ending index, it is now the
             # element directly to th left of the sequence
             end_index = midpoint - 1
         else:
@@ -21,6 +21,6 @@ def binary_search(sequence, item):
 
 
 sequence = [2, 3, 4, 6, 7, 8, 9]
-item = 7
+item = 8
 
 print(binary_search(sequence, item))

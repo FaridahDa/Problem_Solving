@@ -13,25 +13,27 @@ ad_max = [
     [0, 1, 1, 0, 0, 0] #5
 ]
 
-visited = [0, 0, 0, 0, 0, 0]
+visited = [0, 0, 0 , 0, 0 , 0 , 0]
 ans = []
 stack = []
 
+
 def stack_display():
-    for item in stack:
-        print(item, end='|')
+    for val in stack:
+        print(val, end='|')
     print()
 
 def dfs(n):
     if visited[n] != 0:
         return
+
     else:
         visited[n] = 1
         stack.append(n)
         stack_display()
         num = 0
         for relation in ad_max[n]:
-            if relation != 0:
+            if relation !=0:
                 dfs(num)
             num +=1
         ans.append(n)
@@ -40,3 +42,4 @@ def dfs(n):
 
 src_node = int(input("enter a starting node: ")) # the starting node
 dfs(src_node)
+

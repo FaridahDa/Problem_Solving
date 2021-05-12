@@ -27,6 +27,6 @@ The structure for the repo is below:
 ### Programming languages used to solve the Katas
 |    Programming Language  |    Kata Count  | 
 |----------|:-------------:|
-| [Python](https://github.com/FaridahDa/Problem_Solving/tree/main/Python_Codewars) | 60 | 
+| [Python](https://github.com/FaridahDa/Problem_Solving/tree/main/Python_Codewars) | 63 | 
 | [JavaScript](https://github.com/FaridahDa/Problem_Solving/tree/main/JavaScript_Codewars) | 3| 
 
