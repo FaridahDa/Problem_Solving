@@ -32,5 +32,5 @@ The structure for the repo is below:
 |----------|:-------------:|
 | [Python](https://github.com/FaridahDa/Problem_Solving/tree/main/Python_Codewars) | 63 | 
 | [JavaScript](https://github.com/FaridahDa/Problem_Solving/tree/main/JavaScript_Codewars) | 3|
-| [Java](https://github.com/FaridahDa/Problem_Solving/tree/main/Java_Codewars) | 4| 
+| [Java](https://github.com/FaridahDa/Problem_Solving/tree/main/Java_Codewars) | 7| 
 
